@@ -1,1 +1,1 @@
-welcome to the git
+learning git isgoing well so far
